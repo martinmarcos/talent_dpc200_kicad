@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AY-3-8910
+D PROGRAMMABLE SOUND GENERATOR, DIP-40
+K PSG
+F http://map.grauw.nl/resources/sound/generalinstrument_ay-3-8910.pdf
+$ENDCMP
+#
+$CMP D41416C
+D 16,384 x 4-BIT DYNAMIC NMOS RAM
+K uPD41416
+F http://sintran.com/sintran/library/libother/extern/D41416.pdf
+$ENDCMP
+#
+$CMP D8255AC-5
+D PROGRAMMABLE PERIPHERAL INTERFACE , DIP-40
+K PPI
+F https://www.jameco.com/Jameco/Products/ProdDS/52732.pdf
+$ENDCMP
+#
+$CMP R09256C
+D 262,144 BIT STATIC READ ONLY MEMORY , DIP-40
+K 32kB Static ROM
+F http://www.bitsavers.org/components/gi/_dataBooks/1985_GI_Non-Volatile_Memory_Data_Book.pdf
+$ENDCMP
+#
+$CMP TMM4164AP
+D 65,536 WORD X 1-BIT DYNAMIC RAM
+K TMM4164AP
+$ENDCMP
+#
+$CMP TMS9129A
+D VIDEO DISPLAY PROCESSOR, DIP-40
+K VDP
+F http://map.grauw.nl/resources/video/ti-vdp-programmers-guide.pdf
+$ENDCMP
+#
+#End Doc Library
